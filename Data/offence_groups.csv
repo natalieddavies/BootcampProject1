@@ -1,0 +1,48 @@
+Offence Category,Offence
+PERSONAL,Common Assault (Non-Family)
+PERSONAL,Threatening Behaviour (Non-Family)
+PERSONAL,Serious Assault (Non-Family)
+PERSONAL,Non-Assaultive Sexual Offences
+PERSONAL,Common Assault (Family)
+PERSONAL,Threatening Behaviour (Family)
+PERSONAL,Serious Assault (Family)
+PERSONAL,Kidnapping / Child Stealing
+PERSONAL,Manslaughter
+PERSONAL,Murder
+PERSONAL,Sexual Assault
+PROPERTY,Burglary (Dwelling)
+PROPERTY,Burglary (Non-Dwelling)
+PROPERTY,Stealing (Not Elsewhere Classified)
+PROPERTY,Stealing From Dwelling
+PROPERTY,Stealing From Motor Vehicle (Contents or Parts)
+PROPERTY,Stealing From Other Premises or Place
+PROPERTY,Stealing From Retail Premises (Shoplift)
+PROPERTY,Stealing as a Servant
+PROPERTY,Stealing of Motor Vehicle
+PROPERTY,Robbery (Business)
+PROPERTY,Robbery (Non-Business)
+PROPERTY,Cause Bushfire
+PROPERTY,Cause Damage by Fire
+PROPERTY,Criminal Damage
+PROPERTY,Damage
+PROPERTY,Graffiti
+PROPERTY,Other Fire Related Offences
+PROPERTY,Possess Stolen Property
+PROPERTY,Receiving Stolen Property
+STATUTORY,Assault Police Officer
+STATUTORY,Breach of Family Violence Restraint Order
+STATUTORY,Breach of Police Order
+STATUTORY,Breach of Violence Restraint Order
+STATUTORY,Cultivate or Manufacture Drugs
+STATUTORY,Drug Dealing
+STATUTORY,Drug Possession
+STATUTORY,Deprivation of Liberty
+STATUTORY,Other Drug Offences
+STATUTORY,Possession of Drug Paraphernalia
+STATUTORY,Regulated Weapons Offences
+FINANCIAL,Forgery
+FINANCIAL,Fraud (Credit Card)
+FINANCIAL,Fraud (Not Elsewhere Classified)
+INCHOATE,Attempted / Conspiracy to Murder
+INCHOATE,Possess Weapon to Cause Fear (Family)
+INCHOATE,Possess Weapon to Cause Fear (Non-Family)
